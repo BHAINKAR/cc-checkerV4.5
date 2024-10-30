@@ -14,7 +14,7 @@ Credit Card Checker Gateway Stripee / Stripe charger $0.5 And Braintree support 
 ## Install on android (Termux)
     $ pkg install git -y
     $ pkg install php -y
-    $ git clone https://github.com/ZLaxtert/cc-checkerV4.5
+    $ git clone https://github.com/BHAINKAR/cc-checkerV4.5
     $ cd cc-checkerV4.5
     $ php cli.php
 
